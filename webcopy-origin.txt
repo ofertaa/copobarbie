@@ -1,0 +1,116 @@
+Uri: https://cdn.jsdelivr.net/npm/disable-devtool
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\npm\disable-devtool
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.0.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.1.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.2.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.3.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.3.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.4.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.5.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.6.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.6.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.7.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.7.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.8.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v24/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.9.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\s\notocoloremoji\v24\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFabsE4tq3luCC7p-aXxcn.9.woff2
+Content Type: font/woff2
+
+Uri: https://inlead.online/_next/static/media/bootstrap-icons.02685dab.woff2
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\_next\static\media\bootstrap-icons.02685dab.woff2
+Content Type: font/woff2
+
+Uri: https://inlead.online/_next/static/media/bootstrap-icons.8463cb1e.woff
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\_next\static\media\bootstrap-icons.8463cb1e.woff
+Content Type: font/woff
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index.htm
+Content Type: text/html
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/252-66974553e028a79d.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\252-66974553e028a79d.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/379-7af404287aba5c55.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\379-7af404287aba5c55.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/629-de46d6e565affebd.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\629-de46d6e565affebd.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/747-cae3ea989ebb6039.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\747-cae3ea989ebb6039.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/7976948dc41c1bc4.css
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\7976948dc41c1bc4.css
+Content Type: text/css
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/a30574ecda749d76.css
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\a30574ecda749d76.css
+Content Type: text/css
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/framework-58f366eb5759253f.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\framework-58f366eb5759253f.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/latest.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\latest.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/main-ee7ee698e6e71290.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\main-ee7ee698e6e71290.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/polyfills-c67a75d1b6f99dc8.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\polyfills-c67a75d1b6f99dc8.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/webpack-d43aa29d63910d85.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\webpack-d43aa29d63910d85.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/[...all]-c0dba3badbe21485.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\[...all]-c0dba3badbe21485.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/_app-2c350ab1a92ce49b.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\_app-2c350ab1a92ce49b.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/_buildManifest.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\_buildManifest.js.download
+Content Type: application/javascript
+
+Uri: https://stanley-barbie.shop/brb-1/quiz/index_files/_ssgManifest.js.download
+File Name: C:\Downloaded Web Sites\stanley-barbie.shop\brb-1\quiz\index_files\_ssgManifest.js.download
+Content Type: application/javascript
+
